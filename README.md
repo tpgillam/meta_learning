@@ -25,3 +25,4 @@
 * https://arxiv.org/pdf/1801.08930.pdf - MAML <-> hierarchical Bayes
 * https://arxiv.org/pdf/2004.14539.pdf - differentiable linear programming, for incorporation in neural nets.
 * https://arxiv.org/abs/1810.09502 - MAML++
+* https://arxiv.org/pdf/1711.06025.pdf - Relation Nets. Meta-learning, but based on learning a metric / embedding?
