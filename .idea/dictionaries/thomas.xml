@@ -3,6 +3,7 @@
     <words>
       <w>facecolor</w>
       <w>learnable</w>
+      <w>maml</w>
       <w>pretrain</w>
     </words>
   </dictionary>
