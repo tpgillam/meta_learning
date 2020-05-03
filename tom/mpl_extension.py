@@ -19,8 +19,6 @@ def axes_iter(
         clim_convex_hull: bool = False):
     """Iterate over the given iterable, but put a new set of axes on the context for each item.
 
-    We automatically call tight_layout() after we have finished processing the iterable element.
-
     :param iterable: The elements over which to iterate.
     :param num_cols: The number of columns in the grid.
     :param width: The total width of the resulting grid in matplotlib units.
