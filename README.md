@@ -26,3 +26,5 @@
 * https://arxiv.org/pdf/2004.14539.pdf - differentiable linear programming, for incorporation in neural nets.
 * https://arxiv.org/abs/1810.09502 - MAML++
 * https://arxiv.org/pdf/1711.06025.pdf - Relation Nets. Meta-learning, but based on learning a metric / embedding?
+* https://arxiv.org/pdf/2005.00146.pdf - Bayesian online meta-learning. Simulating online data across disparate tasks,
+    and suppress catastrophic forgetting.
